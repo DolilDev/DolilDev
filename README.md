@@ -24,10 +24,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DolilDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DolilDev&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=10&count_private=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true" alt="GitHub streak" />
 
 </div>
 
