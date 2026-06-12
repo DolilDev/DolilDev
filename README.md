@@ -20,8 +20,6 @@
 
 </div>
 
-## GitHub Stats
-
 <div align="center">
 
 <img height="195" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true" alt="GitHub streak" />
@@ -29,14 +27,12 @@
 
 </div>
 
-## Contribution Snake
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=2" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=3" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=3" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="Footer" width="100%" />
