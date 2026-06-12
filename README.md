@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated aurora header -->
-<img src="https://raw.githubusercontent.com/DolilDev/DolilDev/main/assets/header.svg" alt="Header" width="100%" />
+<!-- Animated constellation header -->
+<img src="https://raw.githubusercontent.com/DolilDev/DolilDev/main/assets/header.svg?v=2" alt="Header" width="100%" />
 
 </div>
 
@@ -34,6 +34,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=4" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=4" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=4" />
-</picture><img src="https://raw.githubusercontent.com/DolilDev/DolilDev/main/assets/footer.svg" alt="Footer" width="100%" />
+</picture><img src="https://raw.githubusercontent.com/DolilDev/DolilDev/main/assets/footer.svg?v=2" alt="Footer" width="100%" />
 
 </div>
