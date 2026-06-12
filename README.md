@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=DolilDev&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=DolilDev&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 
 </div>
 
@@ -34,9 +34,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=2" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=2" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="Footer" width="100%" />
