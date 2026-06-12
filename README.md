@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://github.com/DolilDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tymon+%F0%9F%91%8B;AI+chatbots+%C2%B7+scrapers+%C2%B7+web;Always+building+something+new" alt="Typing SVG" />
-</a>
+<!-- Animated waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Hi%2C%20I'm%20Tymon&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20chatbots%20%C2%B7%20scrapers%20%C2%B7%20web&descSize=20&descAlignY=70" alt="Header" width="100%" />
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -22,16 +20,20 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DolilDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DolilDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DolilDev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -40,5 +42,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
