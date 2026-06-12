@@ -31,9 +31,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=3" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=4" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=4" />
 </picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>

@@ -24,8 +24,10 @@ jobs:
             dist/github-snake.svg?color_snake=#70a5fd
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#70a5fd
 
-      - name: Remove progress bar from SVGs
-        run: sed -i 's|<rect class="u u[0-9]*"[^/]*/>||g' dist/github-snake.svg dist/github-snake-dark.svg
+      - name: Remove progress bar and crop bottom whitespace
+        run: |
+          sed -i 's|<rect class="u u[0-9]*"[^/]*/>||g' dist/github-snake.svg dist/github-snake-dark.svg
+          sed -i 's|viewBox="-16 -32 880 192" width="880" height="192"|viewBox="-16 -32 880 146" width="880" height="146"|' dist/github-snake.svg dist/github-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
