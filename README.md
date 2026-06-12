@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Hi%2C%20I'm%20Tymon&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20chatbots%20%C2%B7%20scrapers%20%C2%B7%20web&descSize=20&descAlignY=70" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=DolilDev&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 
 </div>
 
