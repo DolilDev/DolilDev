@@ -18,7 +18,7 @@
 
 <div align="center">
 <img height="250" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000" />
-<img height="250" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DolilDev&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&hide_progress=true" />
+<img height="250" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DolilDev&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&custom_title=Languages" />
 </div>
 
 <div align="center">
