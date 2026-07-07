@@ -18,7 +18,7 @@
 
 <div align="center">
 <img height="195" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000" />
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DolilDev&hide_progress=true&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=10&card_width=320" />
+<img height="195" src="https://github-readme-stats-ten-cyan-68.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&card_width=380" />
 </div>
 
 <div align="center">
