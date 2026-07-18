@@ -17,16 +17,16 @@
 </div>
 
 <div align="center">
-<img height="195" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000" />
-<img height="195" src="https://github-readme-stats-ten-cyan-68.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&card_width=380" />
+<img height="195" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000" alt="GitHub contribution streak" />
+<img height="195" src="https://github-readme-stats-ten-cyan-68.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&card_width=380&disable_animations=true" alt="Most used languages" />
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake.svg?v=2" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/github-snake-dark.svg?v=2" />
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="Footer" width="100%" />
