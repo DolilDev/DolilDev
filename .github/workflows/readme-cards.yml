@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate README cards
 
 on:
   schedule:
@@ -28,6 +28,22 @@ jobs:
         run: |
           sed -i 's|<rect class="u u[0-9]*"[^/]*/>||g' dist/github-snake.svg dist/github-snake-dark.svg
           sed -i 's|viewBox="-16 -32 880 192" width="880" height="192"|viewBox="-16 -32 880 146" width="880" height="146"|' dist/github-snake.svg dist/github-snake-dark.svg
+
+      - name: Cache streak stats card
+        run: |
+          url="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000&disable_animations=true"
+          for attempt in $(seq 1 10); do
+            if curl -sfL "$url" -o dist/streak.svg && ! grep -q "Failed to retrieve" dist/streak.svg; then
+              echo "Fetched streak card on attempt $attempt"
+              exit 0
+            fi
+            echo "Attempt $attempt failed (demolab rate limit), retrying in 15s"
+            sleep 15
+          done
+          echo "::warning::Could not fetch a fresh streak card, keeping the previously published one"
+          rm -f dist/streak.svg
+          curl -sfL "https://raw.githubusercontent.com/${{ github.repository }}/output/streak.svg" -o dist/streak.svg \
+            || echo "::warning::No previously published streak card to fall back on"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

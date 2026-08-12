@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<img height="195" src="https://streak-stats.demolab.com?user=DolilDev&theme=tokyonight&background=00000000&hide_border=true&hide_longest_streak=true&stroke=00000000" alt="GitHub contribution streak" />
+<img height="195" src="https://raw.githubusercontent.com/DolilDev/DolilDev/output/streak.svg?v=3" alt="GitHub contribution streak" />
 <img height="195" src="https://github-readme-stats-ten-cyan-68.vercel.app/api/top-langs/?username=DolilDev&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=12&card_width=380&disable_animations=true" alt="Most used languages" />
 </div>
 
